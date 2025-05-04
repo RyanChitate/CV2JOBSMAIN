@@ -5,6 +5,7 @@ from io import BytesIO
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
+
 import subprocess
 import sys
 
@@ -102,8 +103,7 @@ def main():
             st.markdown("👤 Mitheel Ramdaw")
             st.markdown("👤 Ryan Chitate")
             st.markdown("👤 Mikhaar Ramdaw")
-            st.markdown("👤 Laeeka Adam")
-            st.markdown("👤 Swift Rankapole")
+            st.markdown("👤 Ashley Chitate")
         st.markdown("---")
 
     st.title("📄 **Upload CVs**")
