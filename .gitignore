@@ -1,0 +1,54 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+env/
+venv/
+.cv2jobs/
+.conda/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter/Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# OS + Editor junk
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Personal files
+*.pdf
+# *.csv
+*.xlsx
+*.docx
+*.pptx
+
+# GitHub artifacts
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# VS Code
+.vscode/
+
+# Output folders
+build/
+dist/
+__output__/
+outputs/
+
+req.txt
